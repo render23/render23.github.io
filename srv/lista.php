@@ -17,7 +17,7 @@ devuelveJson([
   "chiste" => "¿Por qué la computadora fue al gimnasio? Para mejorar su 'rendimiento'."
  ],
  [
-  "nombre" => "Jame",
+  "nombre" => "Jaime",
   "chiste" => "¿Cómo saludan los programadores? ¡Hola Mundo!"
  ],
  [
