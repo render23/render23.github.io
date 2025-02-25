@@ -8,14 +8,11 @@ try {
         $nombre = $_POST['nombre'];
 
         $chistes = [
-            "Edher" => "Camarero, este filete tiene muchos nervios. -Normal, es la primera vez que se lo comen.",
-            "Sehas" => "¿Sabes cuál es el café más peligroso del mundo? - El ex-preso",
-            "Enrique" => "¿Por qué el tomate no toma café? - Porque toma-te",
-            "Roni" => "¿Qué le dice un gusano a otro gusano? -Voy a dar una vuelta a la manzana.",
-            "Alexa" => "¿Qué hace una abeja en el gimnasio? - Zum-ba",
-            "Ana" => "¿Cómo se depiden los químicos? -Ácido un placer",
-            "Andres" => "¿Cómo se dice pañuelo en chino? -Sacamoco",
-            "Edgar" => "-Doctor, tengo complejo de feo? - No es un complejo, usted es feo de verdad."
+            "Ramon" => "¿Cuál es el colmo de un programador? Tener problemas de 'conexión' social.",
+            "Melanie" => "¿Qué hace un pez en un servidor? Nada, pero consume ancho de banda.",
+            "Mariana" => "¿Por qué la computadora fue al gimnasio? Para mejorar su 'rendimiento'.",
+            "Jaime" => "¿Cómo saludan los programadores? ¡Hola Mundo!",
+            "Ana" => "¿Por qué el programador fue al médico? Porque tenía un bucle infinito de dolor de cabeza."
         ];
 
         if (array_key_exists($nombre, $chistes)) {

@@ -1,6 +1,6 @@
 {
-    "short_name": "Chiste Express",
-    "name": "Chiste Express",
+    "short_name": "Compilando Chistes",
+    "name": "Compilando Chistes",
     "id": "/index.html",
     "start_url": "/renderizado/index.html",
     "display": "standalone",

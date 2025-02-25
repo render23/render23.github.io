@@ -5,36 +5,24 @@ require_once __DIR__ . "/../lib/php/devuelveErrorInterno.php";
 
 devuelveJson([
  [
-  "nombre" => "Edher",
-  "chiste" => "Camarero, este filete tiene muchos nervios. -Normal, es la primera vez que se lo comen."
+  "nombre" => "Ramon",
+  "chiste" => "¿Cuál es el colmo de un programador? Tener problemas de 'conexión' social."
  ],
  [
-  "nombre" => "Sehas",
-  "chiste" => "¿Sabes cuál es el café más peligroso del mundo? - El ex-preso"
+  "nombre" => "Melanie",
+  "chiste" => "¿Qué hace un pez en un servidor? Nada, pero consume ancho de banda."
  ],
  [
-  "nombre" => "Enrique",
-  "chiste" => "¿Por qué el tomate no toma café? - Porque toma-te"
+  "nombre" => "Mariana",
+  "chiste" => "¿Por qué la computadora fue al gimnasio? Para mejorar su 'rendimiento'."
  ],
  [
-  "nombre" => "Roni",
-  "chiste" => "¿Qué le dice un gusano a otro gusano? -Voy a dar una vuelta a la manzana."
+  "nombre" => "Jame",
+  "chiste" => "¿Cómo saludan los programadores? ¡Hola Mundo!"
  ],
  [
-    "nombre" => "Alexa",
-    "chiste" => "¿Qué hace una abeja en el gimnasio? - Zum-ba"
+    "nombre" => "Ana",
+    "chiste" => "¿Por qué el programador fue al médico? Porque tenía un bucle infinito de dolor de cabeza."
  ],
- [
-   "nombre" => "Ana",
-   "chiste" => "¿Cómo se depiden los químicos? -Ácido un placer"
-],
-[
-   "nombre" => "Andres",
-   "chiste" => "¿Cómo se dice pañuelo en chino? -Sacamoco"
-],
-[
-   "nombre" => "Edgar",
-   "chiste" => "-Doctor, tengo complejo de feo? - No es un complejo, usted es feo de verdad."
-],
 
 ]);
